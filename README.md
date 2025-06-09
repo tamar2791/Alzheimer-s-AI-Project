@@ -72,3 +72,11 @@ This project is focused on analyzing and predicting Alzheimer's Disease using a 
 ## 📥 Dataset Source
 
 The dataset used in this project was downloaded from [Kaggle](https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset/data).  
+
+---
+
+
+## 🙋‍♀️ Used this project?
+
+If this code helped you or was useful in any way — I’d really appreciate it if you could give it a ⭐ star, open an issue, or just let me know!
+It means a lot to know the project is being used and helps me improve it further. Thanks! 💙
