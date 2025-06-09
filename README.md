@@ -5,7 +5,7 @@ This project is focused on analyzing and predicting Alzheimer's Disease using a 
 ## 📁 Project Structure
 
 - `ds-project.ipynb`: Jupyter notebook containing all steps of the project.
-- `alzheimers_disease_data.csv`: The dataset used (should be provided separately).
+- `alzheimers_disease_data.csv`: The dataset used.
 
 ## 🚀 Project Steps
 
