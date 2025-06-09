@@ -66,3 +66,9 @@ This project is focused on analyzing and predicting Alzheimer's Disease using a 
 - Tune hyperparameters using GridSearch or RandomSearch
 - Add more robust handling of class imbalance
 
+---
+
+
+## 📥 Dataset Source
+
+The dataset used in this project was downloaded from [Kaggle](https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset/data).  
